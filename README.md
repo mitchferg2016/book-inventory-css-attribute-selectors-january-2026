@@ -28,7 +28,7 @@ No JavaScript was used — all styling logic is handled purely with HTML and CSS
 
 You can view the project here:
 
-👉 **https://mitchferg2016.github.io/book-inventory-css-attribute-selectors-january-2026/**
+👉 **https://mitchferg2016.github.io/book-inventory-css-attribute-selectors-january10-2026/**
 
 ## Files Included
 
